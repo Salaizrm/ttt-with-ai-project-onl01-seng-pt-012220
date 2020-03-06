@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
 require_relative '../config/environment'
+puts "type game_start to get started"
+
 
 def game_start
   puts "Hello and welcome! please select a gametype:
